@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @petrusenik
+- I solve business problems with high-quality design.
 - 👀 I’m interested in graphic and type design, among many other things.
 - 🌱 I’m currently learning Python and other stuff.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any design project.
 - 📫 How to reach me: nikipetrus@gmail.com
 
 <!---
