@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @petrusenik
-- I solve business problems with high-quality design.
-- 👀 I’m interested in graphic and type design, among many other things.
+- ✨ I solve business problems with high-quality design.
+- I co-designed this font: https://github.com/vegaprotocol/alpha-lyrae
+  
 - 🌱 I’m currently learning Python and other stuff.
 - 💞️ I’m looking to collaborate on any design project.
-- 📫 How to reach me: nikipetrus@gmail.com
+- 📫 Reach me on: nikipetrus@gmail.com
 
 <!---
 petrusenik/petrusenik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
