@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petrusenik
 - ✨ I solve business problems with high-quality design.
-- I co-designed this font: https://github.com/vegaprotocol/alpha-lyrae
+- I was a leading designer of this font: https://github.com/vegaprotocol/alpha-lyrae
   
 - 🌱 I’m currently learning Python and other stuff.
 - 💞️ I’m looking to collaborate on any design project.
